@@ -1,0 +1,47 @@
+{
+  "project_info": {
+    "project_number": "36338571001",
+    "firebase_url": "https://facepay-ac44d.firebaseio.com",
+    "project_id": "facepay-ac44d",
+    "storage_bucket": "facepay-ac44d.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:36338571001:android:c24059f31b5e439d",
+        "android_client_info": {
+          "package_name": "com.rpogoti.ocr_andriod"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "36338571001-vpt7pkadmseeaahind93fif7bkatl544.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCQFcQ3F_DjnQt415xVSQJhstHOCjkI0d8"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "36338571001-vpt7pkadmseeaahind93fif7bkatl544.apps.googleusercontent.com",
+              "client_type": 3
+            },
+            {
+              "client_id": "36338571001-umce0tf1broefje7c8sd2g75tnh8velg.apps.googleusercontent.com",
+              "client_type": 2,
+              "ios_info": {
+                "bundle_id": "com.progoti.facepay"
+              }
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
